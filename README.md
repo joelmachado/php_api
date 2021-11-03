@@ -11,7 +11,7 @@ Este é um passo a passo PHP 7 & MySQL REST API PHP 7 CRUD (Criar, Ler, Actualiz
 * `DELETE - localhost:8080/api/delete.php` Deleta registro
 
 ##JSON
-
+* POST - http://localhost:8080/api/create.php`
   * {
       "id": "19",
       "name": "joel 2",
