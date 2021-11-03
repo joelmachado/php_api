@@ -12,10 +12,10 @@ Este é um passo a passo PHP 7 & MySQL REST API PHP 7 CRUD (Criar, Ler, Actualiz
 
 ##JSON
 
-*  {
-*      "id": "19",
-*      "name": "joel 2",
-*      "email": "joel.machado5@gmail.com",
-*      "age": "19",
-*      "designation": "test2"     
-*    }
+  {
+      "id": "19",
+      "name": "joel 2",
+      "email": "joel.machado5@gmail.com",
+      "age": "19",
+      "designation": "test2"     
+    }
