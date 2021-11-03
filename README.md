@@ -9,3 +9,13 @@ Este é um passo a passo PHP 7 & MySQL REST API PHP 7 CRUD (Criar, Ler, Actualiz
 * `POST - http://localhost:8080/api/create.php` Criar novo registro no banco
 * `POST - http://localhost:8080/api/update.php` Atualiza registro
 * `DELETE - localhost:8080/api/delete.php` Deleta registro
+
+##JSON
+
+*  {
+*      "id": "19",
+*      "name": "joel 2",
+*      "email": "joel.machado5@gmail.com",
+*      "age": "19",
+*      "designation": "test2"     
+*    }
